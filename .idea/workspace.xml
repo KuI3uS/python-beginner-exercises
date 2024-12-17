@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="530be662-e6a9-49a2-8a87-4acc780ec48e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TAU/ZAD2/scenario1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TAU/ZAD2/scenario2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TAU/ZAD2/scenario3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TAU/ZAD2/scenario4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TAU/ZAD3/src/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TAU/ZAD3/tests/game_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,30 +33,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for TestCalculator.TestCalculator.executor": "Run",
-    "Python tests.Python tests for TestCalculator.TestCalculator.test_correct_addition.executor": "Run",
-    "Python tests.Python tests for TestCalculator.TestCalculator.test_correct_subtraction_with_negatives_values.executor": "Run",
-    "Python tests.Python tests in TestCalculator.py.executor": "Run",
-    "Python tests.Python tests in game_tests.py.executor": "Run",
-    "Python.2.check_even_odd.executor": "Run",
-    "Python.3.numbers_divisible_by_3.executor": "Run",
-    "Python.add_two_numbers.executor": "Run",
-    "Python.game.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.scenario1.executor": "Run",
-    "Python.scenario2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for TestCalculator.TestCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestCalculator.TestCalculator.test_correct_addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestCalculator.TestCalculator.test_correct_subtraction_with_negatives_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in TestCalculator.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in game_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.check_even_odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.numbers_divisible_by_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_two_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scenario1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scenario2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/TAU/ZAD3/src" />
@@ -68,7 +65,7 @@
       <recent name="$PROJECT_DIR$/python-beginner-exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in game_tests.py">
+  <component name="RunManager" selected="Python.variables">
     <configuration name="3.numbers_divisible_by_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -138,29 +135,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scenario1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TAU/ZAD2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TAU/ZAD2/scenario1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="scenario2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -176,6 +150,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TAU/ZAD2/scenario2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_from_scratch/first_steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_from_scratch/first_steps/variables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.variables" />
+        <item itemvalue="Python.3.numbers_divisible_by_3" />
         <item itemvalue="Python tests.Python tests in game_tests.py" />
         <item itemvalue="Python.game" />
         <item itemvalue="Python.scenario2" />
-        <item itemvalue="Python.scenario1" />
-        <item itemvalue="Python.3.numbers_divisible_by_3" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +234,9 @@
       <workItem from="1730734026251" duration="1939000" />
       <workItem from="1730991394827" duration="11000" />
       <workItem from="1731952954149" duration="612000" />
-      <workItem from="1732441482874" duration="5275000" />
+      <workItem from="1732441482874" duration="6479000" />
+      <workItem from="1732883254874" duration="770000" />
+      <workItem from="1734352749083" duration="6204000" />
     </task>
     <servers />
   </component>
@@ -246,11 +245,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1729431475690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$3_numbers_divisible_by_3.coverage" NAME="3.numbers_divisible_by_3 Coverage Results" MODIFIED="1730734863866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-beginner-exercises" />
+    <SUITE FILE_PATH="coverage/python$3_numbers_divisible_by_3.coverage" NAME="3.numbers_divisible_by_3 Coverage Results" MODIFIED="1732883341232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-beginner-exercises" />
     <SUITE FILE_PATH="coverage/python$add_two_numbers.coverage" NAME="add_two_numbers Coverage Results" MODIFIED="1729431482648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$scenario1.coverage" NAME="scenario1 Coverage Results" MODIFIED="1732447791797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TAU/ZAD2" />
     <SUITE FILE_PATH="coverage/python$scenario2.coverage" NAME="scenario2 Coverage Results" MODIFIED="1732449616343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TAU/ZAD2" />
-    <SUITE FILE_PATH="coverage/python$.coverage" NAME=" Coverage Results" MODIFIED="1732450133003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TAU/ZAD3/tests" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME=" Coverage Results" MODIFIED="1732450312366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TAU/ZAD3/tests" />
+    <SUITE FILE_PATH="coverage/python$variables.coverage" NAME="variables Coverage Results" MODIFIED="1734354840505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
     <SUITE FILE_PATH="coverage/python$2_check_even_odd.coverage" NAME="2.check_even_odd Coverage Results" MODIFIED="1729433737579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-beginner-exercises" />
     <SUITE FILE_PATH="coverage/python$game.coverage" NAME="game Coverage Results" MODIFIED="1732450078044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TAU/ZAD3/src" />
   </component>
