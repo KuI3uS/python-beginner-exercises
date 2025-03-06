@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="530be662-e6a9-49a2-8a87-4acc780ec48e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/0.20-class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/add_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/is_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/every_second_character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/is_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/name_age_sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/reverse_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/15-other-functions/celsius_to_fahrenheit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +27,17 @@
       <list>
         <option value="Python Script" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -77,21 +97,30 @@
     "Python.3.exam_grading.executor": "Run",
     "Python.3.numbers_divisible_by_3.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.add_numbers.executor": "Run",
     "Python.add_two_numbers.executor": "Run",
     "Python.app.executor": "Run",
     "Python.bank_system.executor": "Run",
+    "Python.celsius_to_fahrenheit.executor": "Run",
     "Python.common_names.executor": "Run",
     "Python.countries_capitals.executor": "Run",
     "Python.environment.executor": "Run",
+    "Python.every_second_character.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.fibonacci.executor": "Run",
     "Python.game.executor": "Run",
     "Python.guess_the_number.executor": "Run",
+    "Python.is_even.executor": "Run",
+    "Python.is_palindrome.executor": "Run",
     "Python.main.executor": "Run",
     "Python.min_max_list.executor": "Run",
+    "Python.name_age_sentence.executor": "Run",
     "Python.name_gender.executor": "Run",
     "Python.prime_numbers.executor": "Run",
     "Python.print_numbers.executor": "Run",
     "Python.rectangle_area (1).executor": "Run",
     "Python.rectangle_area.executor": "Run",
+    "Python.reverse_string.executor": "Run",
     "Python.scenario1.executor": "Run",
     "Python.scenario2.executor": "Run",
     "Python.sort_countries.executor": "Run",
@@ -109,7 +138,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -127,8 +156,8 @@
       <recent name="$PROJECT_DIR$/TAU/ZAD3/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0.20-class">
-    <configuration name="0.19-functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.every_second_character">
+    <configuration name="celsius_to_fahrenheit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,12 +166,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_from_scratch/first_steps" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_from_scratch/first_steps/15-other-functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_from_scratch/first_steps/0.19-functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_from_scratch/first_steps/15-other-functions/celsius_to_fahrenheit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0.20-class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="every_second_character" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,12 +189,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_from_scratch/first_steps" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_from_scratch/first_steps/0.20-class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/every_second_character.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bank_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,12 +212,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TAU/ZAD6/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TAU/ZAD6/src/bank_system.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/fibonacci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="is_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/is_palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,45 +272,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_bank_system.test_deposit" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="name_age_sentence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TAU/ZAD6/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_bank_system.test_deposit&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_bank_system.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TAU/ZAD6/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TAU/ZAD6/test/test_bank_system.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/name_age_sentence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0.20-class" />
-        <item itemvalue="Python.0.19-functions" />
-        <item itemvalue="Python tests.Python tests in test_bank_system.py" />
-        <item itemvalue="Python.bank_system" />
-        <item itemvalue="Python tests.Python tests for test_bank_system.test_deposit" />
+        <item itemvalue="Python.every_second_character" />
+        <item itemvalue="Python.name_age_sentence" />
+        <item itemvalue="Python.fibonacci" />
+        <item itemvalue="Python.celsius_to_fahrenheit" />
+        <item itemvalue="Python.is_palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +357,11 @@
       <workItem from="1738839378638" duration="14000" />
       <workItem from="1738839437636" duration="51000" />
       <workItem from="1740496674522" duration="6122000" />
-      <workItem from="1740644936953" duration="12512000" />
+      <workItem from="1740644936953" duration="13153000" />
+      <workItem from="1741006181713" duration="11546000" />
+      <workItem from="1741089990698" duration="16000" />
+      <workItem from="1741092724874" duration="1457000" />
+      <workItem from="1741102333536" duration="8797000" />
     </task>
     <servers />
   </component>
@@ -329,6 +376,10 @@
           <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/factorial.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -336,7 +387,9 @@
     <SUITE FILE_PATH="coverage/python$sum_even_numbers.coverage" NAME="sum_even_numbers Coverage Results" MODIFIED="1736522130263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/Loops and Iterations" />
     <SUITE FILE_PATH="coverage/python$_your_feature_feature.coverage" NAME=" your_feature.feature Coverage Results" MODIFIED="1737225227493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/python$common_names.coverage" NAME="common_names Coverage Results" MODIFIED="1736947681207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/lists" />
+    <SUITE FILE_PATH="coverage/python$reverse_string.coverage" NAME="reverse_string Coverage Results" MODIFIED="1741014230875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions" />
     <SUITE FILE_PATH="coverage/python$2_Data_Types.coverage" NAME="2.Data Types Coverage Results" MODIFIED="1736347150129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/home" />
+    <SUITE FILE_PATH="coverage/python$every_second_character.coverage" NAME="every_second_character Coverage Results" MODIFIED="1741115958700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions" />
     <SUITE FILE_PATH="coverage/python$scenario1_feature.coverage" NAME="scenario1.feature Coverage Results" MODIFIED="1737226541016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/python$game.coverage" NAME="game Coverage Results" MODIFIED="1732450078044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TAU/ZAD3/src" />
     <SUITE FILE_PATH="coverage/python$guess_the_number.coverage" NAME="guess_the_number Coverage Results" MODIFIED="1736529163538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/random-games" />
@@ -351,7 +404,10 @@
     <SUITE FILE_PATH="coverage/python$0_12_loot_while.coverage" NAME="0.12-loot-while Coverage Results" MODIFIED="1736332933688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
     <SUITE FILE_PATH="coverage/python$0_7_strings_methods.coverage" NAME="0.7-strings-methods Coverage Results" MODIFIED="1736089173745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
     <SUITE FILE_PATH="coverage/python$0_2_numerical_operations.coverage" NAME="0.2-numerical-operations Coverage Results" MODIFIED="1734428261021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
+    <SUITE FILE_PATH="coverage/python$add_numbers.coverage" NAME="add_numbers Coverage Results" MODIFIED="1741011915838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions" />
     <SUITE FILE_PATH="coverage/python$Variables.coverage" NAME="1.Variables Coverage Results" MODIFIED="1736347101482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/home" />
+    <SUITE FILE_PATH="coverage/python$name_age_sentence.coverage" NAME="name_age_sentence Coverage Results" MODIFIED="1741115617991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions" />
+    <SUITE FILE_PATH="coverage/python$celsius_to_fahrenheit.coverage" NAME="celsius_to_fahrenheit Coverage Results" MODIFIED="1741104839196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/15-other-functions" />
     <SUITE FILE_PATH="coverage/python$0_13_loop_for.coverage" NAME="0.13-loop-for Coverage Results" MODIFIED="1736334920730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
     <SUITE FILE_PATH="coverage/python$rectangle_area__1_.coverage" NAME="rectangle_area (1) Coverage Results" MODIFIED="1736525378710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/math" />
     <SUITE FILE_PATH="coverage/python$0_5_ogical_operators.coverage" NAME="0.5-ogical_operators Coverage Results" MODIFIED="1735911615814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
@@ -362,7 +418,9 @@
     <SUITE FILE_PATH="coverage/python$0_9_dynamically_strongly_typed_language.coverage" NAME="0.9-dynamically-strongly-typed-language Coverage Results" MODIFIED="1736245290352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
     <SUITE FILE_PATH="coverage/python$min_max_list.coverage" NAME="min_max_list Coverage Results" MODIFIED="1736947679347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/lists" />
     <SUITE FILE_PATH="coverage/python$words_filter.coverage" NAME="words_filter Coverage Results" MODIFIED="1736942812497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/lists" />
+    <SUITE FILE_PATH="coverage/python$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1741012772942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions" />
     <SUITE FILE_PATH="coverage/python$scenario2_feature.coverage" NAME="scenario2.feature Coverage Results" MODIFIED="1737226525703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/python$is_even.coverage" NAME="is_even Coverage Results" MODIFIED="1741011746370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions" />
     <SUITE FILE_PATH="coverage/python$bank_system.coverage" NAME="bank_system Coverage Results" MODIFIED="1738453793275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TAU/ZAD6/src" />
     <SUITE FILE_PATH="coverage/python$rectangle_area.coverage" NAME="rectangle_area Coverage Results" MODIFIED="1736524902465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/Mathematical Calculations" />
     <SUITE FILE_PATH="coverage/python$scenario1.coverage" NAME="scenario1 Coverage Results" MODIFIED="1732447791797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TAU/ZAD2" />
@@ -372,6 +430,7 @@
     <SUITE FILE_PATH="coverage/python$countries_capitals.coverage" NAME="countries_capitals Coverage Results" MODIFIED="1736944425096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/dictionaries" />
     <SUITE FILE_PATH="coverage/python$sort_countries.coverage" NAME="sort_countries Coverage Results" MODIFIED="1736949293336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/dictionaries" />
     <SUITE FILE_PATH="coverage/python$0_3_type_boolean.coverage" NAME="0.3-type-boolean Coverage Results" MODIFIED="1734428433153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
+    <SUITE FILE_PATH="coverage/python$is_palindrome.coverage" NAME="is_palindrome Coverage Results" MODIFIED="1741086798078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions" />
     <SUITE FILE_PATH="coverage/python$prime_numbers.coverage" NAME="prime_numbers Coverage Results" MODIFIED="1736520520205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/Loops and Iterations" />
     <SUITE FILE_PATH="coverage/python$environment.coverage" NAME="environment Coverage Results" MODIFIED="1737225323120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TAU/ZAD4" />
     <SUITE FILE_PATH="coverage/python$0_11_match_case.coverage" NAME="0.11-match-case Coverage Results" MODIFIED="1736332931577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
@@ -387,6 +446,7 @@
     <SUITE FILE_PATH="coverage/python$3_exam_grading.coverage" NAME="3.exam_grading Coverage Results" MODIFIED="1736507726370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/conditional-statements" />
     <SUITE FILE_PATH="coverage/python$_your_feature_feature_Navigate_to_anime_subpage_using_specific_browser.coverage" NAME=" your_feature.feature:Navigate to anime subpage using specific browser Coverage Results" MODIFIED="1737225528093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/python$0_20_class.coverage" NAME="0.20-class Coverage Results" MODIFIED="1740676819109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
+    <SUITE FILE_PATH="coverage/python$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1741114164103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions" />
     <SUITE FILE_PATH="coverage/python$name_gender.coverage" NAME="name_gender Coverage Results" MODIFIED="1736526551522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/strings" />
     <SUITE FILE_PATH="coverage/python$0_10_conditional_instructions.coverage" NAME="0.10-conditional-instructions Coverage Results" MODIFIED="1736247057262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
   </component>
