@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="530be662-e6a9-49a2-8a87-4acc780ec48e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/add_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/is_even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/every_second_character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/is_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/name_age_sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/15-other-functions/celsius_to_fahrenheit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/every_second_character.py" beforeDir="false" afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/12-string-functions/every_second_character.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,98 +46,98 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Behave. your_feature.feature (1).executor": "Run",
-    "Behave. your_feature.feature.executor": "Run",
-    "Behave. your_feature.feature:Navigate to anime subpage using specific browser.executor": "Run",
-    "Behave.scenario1.feature.executor": "Run",
-    "Behave.scenario2.feature.executor": "Run",
-    "Python tests.Python tests for TestCalculator.TestCalculator.executor": "Run",
-    "Python tests.Python tests for TestCalculator.TestCalculator.test_correct_addition.executor": "Run",
-    "Python tests.Python tests for TestCalculator.TestCalculator.test_correct_subtraction_with_negatives_values.executor": "Run",
-    "Python tests.Python tests for test_app.TestUserAPI.executor": "Run",
-    "Python tests.Python tests for test_app.TestUserAPI.test_create_user_invalid_data.executor": "Run",
-    "Python tests.Python tests for test_bank_system.test_deposit.executor": "Run",
-    "Python tests.Python tests in TestCalculator.py.executor": "Run",
-    "Python tests.Python tests in game_tests.py.executor": "Run",
-    "Python tests.Python tests in test_bank_system.py.executor": "Run",
-    "Python.0.1 variables.executor": "Run",
-    "Python.0.10-conditional-instructions.executor": "Run",
-    "Python.0.11-match-case.executor": "Run",
-    "Python.0.12-loot-while.executor": "Run",
-    "Python.0.13-loop-for.executor": "Run",
-    "Python.0.14-break-continue.executor": "Run",
-    "Python.0.15-list.executor": "Run",
-    "Python.0.16-set.executor": "Run",
-    "Python.0.17-dictionary.executor": "Run",
-    "Python.0.18-tuple.executor": "Run",
-    "Python.0.19-functions.executor": "Run",
-    "Python.0.2-numerical-operations.executor": "Run",
-    "Python.0.20-class.executor": "Run",
-    "Python.0.3-type-boolean.executor": "Run",
-    "Python.0.4-comparison-operators.executor": "Run",
-    "Python.0.5-ogical_operators.executor": "Run",
-    "Python.0.6-Strings.executor": "Run",
-    "Python.0.7-strings-methods.executor": "Run",
-    "Python.0.8-string-slicing.executor": "Run",
-    "Python.0.9-dynamically-strongly-typed-language.executor": "Run",
-    "Python.1.Variables.executor": "Run",
-    "Python.2.Data Types.executor": "Run",
-    "Python.2.check_even_odd.executor": "Run",
-    "Python.3.exam_grading.executor": "Run",
-    "Python.3.numbers_divisible_by_3.executor": "Run",
-    "Python.Variables.executor": "Run",
-    "Python.add_numbers.executor": "Run",
-    "Python.add_two_numbers.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.bank_system.executor": "Run",
-    "Python.celsius_to_fahrenheit.executor": "Run",
-    "Python.common_names.executor": "Run",
-    "Python.countries_capitals.executor": "Run",
-    "Python.environment.executor": "Run",
-    "Python.every_second_character.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.fibonacci.executor": "Run",
-    "Python.game.executor": "Run",
-    "Python.guess_the_number.executor": "Run",
-    "Python.is_even.executor": "Run",
-    "Python.is_palindrome.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.min_max_list.executor": "Run",
-    "Python.name_age_sentence.executor": "Run",
-    "Python.name_gender.executor": "Run",
-    "Python.prime_numbers.executor": "Run",
-    "Python.print_numbers.executor": "Run",
-    "Python.rectangle_area (1).executor": "Run",
-    "Python.rectangle_area.executor": "Run",
-    "Python.reverse_string.executor": "Run",
-    "Python.scenario1.executor": "Run",
-    "Python.scenario2.executor": "Run",
-    "Python.sort_countries.executor": "Run",
-    "Python.sort_three_numbers.executor": "Run",
-    "Python.sum_even_numbers.executor": "Run",
-    "Python.sum_list.executor": "Run",
-    "Python.test_steps.executor": "Run",
-    "Python.variables.executor": "Run",
-    "Python.word_count.executor": "Run",
-    "Python.words_filter.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Behave. your_feature.feature (1).executor&quot;: &quot;Run&quot;,
+    &quot;Behave. your_feature.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave. your_feature.feature:Navigate to anime subpage using specific browser.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.scenario1.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Behave.scenario2.feature.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestCalculator.TestCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestCalculator.TestCalculator.test_correct_addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestCalculator.TestCalculator.test_correct_subtraction_with_negatives_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_app.TestUserAPI.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_app.TestUserAPI.test_create_user_invalid_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bank_system.test_deposit.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in TestCalculator.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in game_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_bank_system.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.1 variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.10-conditional-instructions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.11-match-case.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.12-loot-while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.13-loop-for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.14-break-continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.15-list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.16-set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.17-dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.18-tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.19-functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.2-numerical-operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.20-class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.3-type-boolean.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.4-comparison-operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.5-ogical_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.6-Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.7-strings-methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.8-string-slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.9-dynamically-strongly-typed-language.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.Data Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.check_even_odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.exam_grading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.numbers_divisible_by_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_two_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.celsius_to_fahrenheit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.common_names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.countries_capitals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.environment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.every_second_character.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_the_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_even.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min_max_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.name_age_sentence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.name_gender.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rectangle_area (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.rectangle_area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scenario1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scenario2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort_countries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort_three_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_even_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.words_filter.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/TAU/ZAD6/src" />
@@ -362,6 +353,7 @@
       <workItem from="1741089990698" duration="16000" />
       <workItem from="1741092724874" duration="1457000" />
       <workItem from="1741102333536" duration="8797000" />
+      <workItem from="1741268235081" duration="302000" />
     </task>
     <servers />
   </component>
