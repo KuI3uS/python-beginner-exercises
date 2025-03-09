@@ -1,0 +1,1 @@
+# 12.Napisz funkcję, która przyjmuje dwa zbiory i zwraca ich sumę, różnicę i część wspólną.
