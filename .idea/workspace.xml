@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="530be662-e6a9-49a2-8a87-4acc780ec48e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/rectangle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/max_min_sum_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/repeated_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/reverse_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/sets_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/14-dictionaries/merge_dict_keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/15-other-functions/positive_negative_zero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/15-other-functions/weekday_name.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/rectangle_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/rectangle_area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/max_min_sum_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/max_min_sum_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/repeated_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/repeated_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/reverse_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/reverse_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/sets_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/13-lists-and-sets/sets_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_from_scratch/first_steps/14-dictionaries/merge_dict_keys.py" beforeDir="false" afterPath="$PROJECT_DIR$/course_from_scratch/first_steps/14-dictionaries/merge_dict_keys.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +130,7 @@
     "Python.word_count.executor": "Run",
     "Python.words_filter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -365,7 +364,8 @@
       <workItem from="1741268235081" duration="4263000" />
       <workItem from="1741352285124" duration="2155000" />
       <workItem from="1741441516402" duration="818000" />
-      <workItem from="1741519958690" duration="1596000" />
+      <workItem from="1741519958690" duration="1802000" />
+      <workItem from="1742125531832" duration="2192000" />
     </task>
     <servers />
   </component>
@@ -379,10 +379,6 @@
           <url>file://$PROJECT_DIR$/course_from_scratch/first_steps/dictionaries/sort_countries.py</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/course_from_scratch/first_steps/11-math-functions/factorial.py</url>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -441,7 +437,7 @@
     <SUITE FILE_PATH="coverage/python$0_11_match_case.coverage" NAME="0.11-match-case Coverage Results" MODIFIED="1736332931577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
     <SUITE FILE_PATH="coverage/python$print_numbers.coverage" NAME="print_numbers Coverage Results" MODIFIED="1736507905141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/Loops and Iterations" />
     <SUITE FILE_PATH="coverage/python$.coverage" NAME=" Coverage Results" MODIFIED="1738453797190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TAU/ZAD6/test" />
-    <SUITE FILE_PATH="coverage/python$weekday_name.coverage" NAME="weekday_name Coverage Results" MODIFIED="1741521542684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/15-other-functions" />
+    <SUITE FILE_PATH="coverage/python$weekday_name.coverage" NAME="weekday_name Coverage Results" MODIFIED="1741521595278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps/15-other-functions" />
     <SUITE FILE_PATH="coverage/python$0_18_tuple.coverage" NAME="0.18-tuple Coverage Results" MODIFIED="1736690107673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
     <SUITE FILE_PATH="coverage/python$0_8_string_slicing.coverage" NAME="0.8-string-slicing Coverage Results" MODIFIED="1736089605068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
     <SUITE FILE_PATH="coverage/python$0_1_variables.coverage" NAME="0.1 variables Coverage Results" MODIFIED="1734427301635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_from_scratch/first_steps" />
